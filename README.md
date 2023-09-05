@@ -14,6 +14,6 @@
 
 ### 🧑‍💻 Recent roles:
 * [Software Developer - Bitbuy](https://bitbuy.ca/) - May~August 2023
-* [Developer - Ontario Ministry of Health IT Cluster](https://www.health.gov.on.ca/en/) - Jan~August 2022
+* [Developer - Ontario Ministry of Health IT Cluster](https://www.health.gov.on.ca/en/) - January~August 2022
 
 
