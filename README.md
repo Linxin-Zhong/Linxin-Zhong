@@ -1,6 +1,6 @@
 ### Hi there, I'm Lola Zhong 👋
 
-- 🌱 I’m currently a Software Developer studying at the University of Waterloo.
+- 🌱 I’m a Software Developer studying at the University of Waterloo.
 
 - 👯 I’m looking to collaborate on Flutter and Javascript projects
 
