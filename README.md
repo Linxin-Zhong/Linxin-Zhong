@@ -1,4 +1,4 @@
-### Hi there, I'm Lola Zhong 😊
+## Hi there, I'm Lola Zhong 😊
 
 - 🌱 I’m a Software Developer studying at the University of Waterloo.
 
