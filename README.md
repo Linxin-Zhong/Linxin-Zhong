@@ -13,6 +13,7 @@
  [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png' height='40'>](https://dart.dev/) <img src='https://github.com/Linxin-Zhong/Linxin-Zhong/assets/77327417/3adea070-2c95-44ce-bf09-9568a064e433' height='40'>  <img src='https://github.com/Linxin-Zhong/Linxin-Zhong/assets/77327417/d90815a8-60ca-4684-a3cd-8b2cb9c64865' height='40'> <img src='https://github.com/Linxin-Zhong/Linxin-Zhong/assets/77327417/09d57d03-f84f-4850-af94-1a20a0b13364' height='40'>
 
 ### 🧑‍💻 Recent roles:
+* [R&D Software Developer - Ansys](https://www.ansys.com/) - Sep~Dec 2024
 * [Software Developer - Bitbuy](https://bitbuy.ca/) - May~August 2023
 * [Developer - Ontario Ministry of Health IT Cluster](https://www.health.gov.on.ca/en/) - January~August 2022
 
