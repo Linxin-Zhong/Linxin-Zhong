@@ -2,8 +2,6 @@
 
 - 🌱 I’m a Software Developer studying at the University of Waterloo.
 
-- 👯 I’m looking to collaborate on Flutter and Javascript projects
-
 ### 🔧 Tool box:
 
 
