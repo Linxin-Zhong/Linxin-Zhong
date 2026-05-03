@@ -6,11 +6,15 @@
 
 
 [<img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' height='40'>](https://www.python.org/)
+[<img src='https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg' height='40'>](https://pytorch.org/)
+[<img src='https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg' height='40'>](https://www.tensorflow.org/)
  [<img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg' height='40'>](https://react.dev/)
  [<img src='https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg' height='40'>](https://angular.dev/)
- [<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png' height='40'>](https://flutter.dev/) 
+ [<img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' height='40'>](https://www.typescriptlang.org/)
+ [<img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg' height='40'>](https://nodejs.org/en)
+  [<img src='https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg' height='40'>](https://www.djangoproject.com/)
+  [<img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg' height='40'>](https://www.java.com/en/)
 [<img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg' height='40'>](https://cplusplus.com/)
-<img src='https://github.com/Linxin-Zhong/Linxin-Zhong/assets/77327417/3adea070-2c95-44ce-bf09-9568a064e433' height='40'>  <img src='https://github.com/Linxin-Zhong/Linxin-Zhong/assets/77327417/d90815a8-60ca-4684-a3cd-8b2cb9c64865' height='40'> <img src='https://github.com/Linxin-Zhong/Linxin-Zhong/assets/77327417/09d57d03-f84f-4850-af94-1a20a0b13364' height='40'>
 
 ### 🧑‍💻 Recent roles:
 * [Software Developer R&D - Ansys](https://www.ansys.com/) - Sep~Dec 2024
